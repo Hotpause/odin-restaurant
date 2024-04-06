@@ -1,7 +1,7 @@
 import { initialpageload } from "./pageload.js";
 import { menutab } from "./menu.js";
 import { abouttab } from "./about.js";
-import './style.css';
+
 
 
 

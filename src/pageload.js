@@ -1,11 +1,16 @@
+import imagesrc from './image1.png';
+import './style.css';
 
-import image from './image1.png';
+
 const initialpageload = () => {
 
     const contentdiv = document.getElementById("content");
+    contentdiv.innerHTML = "";
+
 
     const image = document.createElement('img');
-    image.src = image;
+
+    image.src = imagesrc;
 
     const headline = document.createElement('h1');
     headline.textContent = 'Welcome to Our Restaurant!';

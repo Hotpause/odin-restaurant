@@ -1,0 +1,46 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  padding: 10px;
+  color: white;
+}
+
+nav button {
+  background-color: #555;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background-color: #777;
+}
+
+#content {
+  padding: 20px;
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  width: 300px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}

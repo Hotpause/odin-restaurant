@@ -13,7 +13,7 @@ header {
 nav button {
   background-color: #555;
   color: white;
-  padding: 10px;
+  padding: 20px;
   border: none;
   cursor: pointer;
 }
@@ -34,11 +34,6 @@ img {
   width: 300px;
   border-radius: 10px;
   margin-bottom: 20px;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
 }
 
 li {
